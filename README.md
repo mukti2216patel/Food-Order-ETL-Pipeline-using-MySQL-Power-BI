@@ -2,7 +2,8 @@
 
 # Project Model:
 
-![alt text](image (1).png)
+<img width="658" height="188" alt="image" src="https://github.com/user-attachments/assets/5cd922c0-3d1b-419b-a1fd-a248448902b8" />
+
 
 This Migration will include :
 
