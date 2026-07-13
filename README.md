@@ -2,7 +2,7 @@
 
 # Project Model:
 
-![alt text](image.png)
+![alt text](image1.png)
 
 This Migration will include :
 
